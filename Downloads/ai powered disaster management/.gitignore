@@ -1,0 +1,5 @@
+.DS_Store
+.Trash/
+*.log
+node_modules/
+.vscode/
